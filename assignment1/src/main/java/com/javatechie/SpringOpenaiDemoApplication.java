@@ -1,13 +1,13 @@
-package com.springai.assignment1;
+package com.javatechie;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Assignment1Application {
+public class SpringOpenaiDemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Assignment1Application.class, args);
+		SpringApplication.run(SpringOpenaiDemoApplication.class, args);
 	}
 
 }
